@@ -7,4 +7,13 @@
   </p>
 </div>
 
+<br>
+
+<div align="center">
+  <h2>🎈 TODAY 🎈</h2>
+  <p>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BB86FF&title_bg=%23ACACAC&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+  </p>
+</div
+
 
