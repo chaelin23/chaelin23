@@ -12,7 +12,7 @@
 <div align="center">
   <h2>🍕 BLOG 🍕</h2>
   <p>
-    <a href="https://blog.naver.com/leechailin" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+    <a href="https://blog.naver.com/leechailin"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   </p>
 </div>
 
