@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chae Lin, Lee&fontSize=90&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chae Lin, Lee&fontSize=80&fontColor=ffffff" />
 <br><br><br>
 <h2 align="center">🛠 SKILLS 🛠</h2>
 <br>
